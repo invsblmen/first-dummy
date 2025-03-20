@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Project Description
+This project is a React Native application that allows users to select and view emojis, providing a fun and interactive experience.
+
+## Key Features
+- Emoji selection: Users can browse and select from a variety of emojis.
+- Image viewing: Users can view images related to the selected emojis.
+- User-friendly interface: The app is designed to be intuitive and easy to navigate.
+
 ## Get started
 
 1. Install dependencies
@@ -13,7 +21,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
 In the output, you'll find options to open the app in a
