@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.invsblmen.firstdummy"
+      "package": "com.invsblmen.watermarkemojiadder"
     },
     "web": {
       "bundler": "metro",
