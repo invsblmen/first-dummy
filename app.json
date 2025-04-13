@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-dummy",
-    "slug": "first-dummy",
+    "name": "Watermark Emoji Adder",
+    "slug": "watermark-emoji-adder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
